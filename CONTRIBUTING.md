@@ -1,7 +1,3 @@
-Overcast Tools
-=====
-Overcast Tools is a set of tools for the Overcast Network community.
-
 ###Creating an issue or a pull request
 
 We encourage people to help with the project so it will include as much content as possible to help players more and more but there are a few things that you need to know before submitting a bug report or creating a pull request to add a feature.
@@ -20,7 +16,3 @@ When creating an issue:
 * Content should be grammatically correct and the spelling should be US English (for English content), e.g. Color not Colour.
 
 When creating a pull request make sure to follow the above. In the code it self, please make sure that it is properly formatted.
-
-Current contributors:
-
-* [matic0basle](https://oc.tc/matic0basle) - Project Leader
