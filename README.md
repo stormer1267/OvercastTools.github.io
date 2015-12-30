@@ -24,3 +24,4 @@ When creating a pull request make sure to follow the above. In the code it self,
 Current contributors:
 
 * [matic0basle](https://oc.tc/matic0basle) - Project Leader
+* [stormer_](http://oc.tc/Stormer_) - Contributor
